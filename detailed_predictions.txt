@@ -1,0 +1,14 @@
+Detailed Predictions for Passenger ID 1:
+logistic_regression: Not Survived
+decision_tree: Not Survived
+random_forest: Not Survived
+xgboost: Not Survived
+
+----------------------------------------
+Detailed Predictions for Passenger ID 5:
+logistic_regression: Not Survived
+decision_tree: Not Survived
+random_forest: Not Survived
+xgboost: Not Survived
+
+----------------------------------------
